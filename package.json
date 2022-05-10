@@ -1,0 +1,23 @@
+{
+  "name": "recipe-backend",
+  "version": "1.0.0",
+  "description": "this is backend of recipes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norayrkaloyan/recipe-backend.git"
+  },
+  "keywords": [
+    "recipe-backend"
+  ],
+  "author": "Mehtap,Philipp,Noro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norayrkaloyan/recipe-backend/issues"
+  },
+  "homepage": "https://github.com/norayrkaloyan/recipe-backend#readme"
+}
